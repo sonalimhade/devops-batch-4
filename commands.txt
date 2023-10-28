@@ -1,0 +1,7 @@
+git init
+git status
+git add <filename>
+git rm --cached
+git commit -m "message"
+git restore <filename>
+git log
