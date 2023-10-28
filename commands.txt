@@ -1,2 +1,6 @@
 git init
 git status
+git add <filename>
+git commit -m "message"
+git clone <repo url>
+git remote -v
