@@ -5,3 +5,8 @@ git rm --cached
 git commit -m "message"
 git restore <filename>
 git log
+git log --oneline
+git log --online --pretty
+git config --global user.name "name"
+git config --global user.email "mailid"
+
