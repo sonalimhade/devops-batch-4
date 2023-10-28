@@ -4,3 +4,6 @@ git add <filename>
 git commit -m "message"
 git clone <repo url>
 git remote -v
+git pull
+git fetch 
+git push
